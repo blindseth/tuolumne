@@ -1,4 +1,3 @@
 # tuolumne
 
-initial, preliminary draft of a first pass at a draft of
- ..a learning exercise putting together a game in python
+A learning exercise putting together a very basic game in python
